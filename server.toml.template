@@ -1,0 +1,11 @@
+listen_port = 8081
+
+[db]
+ip = "127.0.0.1"
+port = 5432 # Postgres
+username = ""
+password = ""
+database = ""
+
+[logging]
+file = "server.log"
